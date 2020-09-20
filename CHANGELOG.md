@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/compare/v1.0.2...v1.1.0) (2020-09-20)
+
+
+### Features
+
+* **windows:** basic windows support ([7174325](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/717432549b6340f1928d7b16521d110373351ee2))
+
 ## [1.0.2](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/compare/v1.0.1...v1.0.2) (2020-07-28)
 
 
