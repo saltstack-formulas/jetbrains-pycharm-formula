@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.2.1](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/compare/v1.2.0...v1.2.1) (2020-12-16)
+
+
+### Continuous Integration
+
+* **gitlab-ci:** use GitLab CI as Travis CI replacement ([35683b2](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/35683b2ca0a309f795343dda8e365c5debb06c34))
+* **pre-commit:** add to formula [skip ci] ([4c1b40b](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/4c1b40b2b668ebc3e9cc92286ca9b6053f191526))
+* **pre-commit:** enable/disable `rstcheck` as relevant [skip ci] ([37d0eb7](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/37d0eb78907137a40102e48d02488a57243cf291))
+* **pre-commit:** finalise `rstcheck` configuration [skip ci] ([3721cb9](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/3721cb923433c580ec64d4cd9935ead9c8cea679))
+
+
+### Documentation
+
+* **readme:** fix `rstcheck` violation [skip ci] ([8b1d8fa](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/commit/8b1d8fa2cdfe9c266ef1aedf64ad5151a6aa7640)), closes [/travis-ci.org/github/myii/jetbrains-pycharm-formula/builds/731607124#L259](https://github.com//travis-ci.org/github/myii/jetbrains-pycharm-formula/builds/731607124/issues/L259)
+
 # [1.2.0](https://github.com/saltstack-formulas/jetbrains-pycharm-formula/compare/v1.1.0...v1.2.0) (2020-09-20)
 
 
